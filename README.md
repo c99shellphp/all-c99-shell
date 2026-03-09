@@ -1,2 +1,6 @@
-# all-c99-shell
-C99 Shell | R57 Shell | Shell | TXT Shell | R57.php | c99.php | www.c99shell.com
+# C99 Shell | R57 Shell | Shell | TXT Shell | R57.php | c99.php | www.c99shell.com
+This repository provides an overview and educational reference about well-known PHP web shells such as **C99 Shell** and **R57 Shell**. These shells are historically known tools used for server administration testing, penetration testing demonstrations, and security research. The project also includes references to variants like TXT Shell, **r57.php**, and **c99.php**, which are commonly discussed in cybersecurity communities.
+
+The purpose of this repository is to document how these shell structures work, how they interact with server environments, and how security professionals analyze them. Web shells like C99 and R57 are capable of performing multiple server-side operations such as file management, command execution, file uploads, and permission viewing. Because of these capabilities, they are often studied in web security, malware analysis, and vulnerability research.
+
+Inside this repository you may find information about the basic structure of PHP shells, typical features they include, and how administrators can identify them on compromised servers. Understanding these scripts helps developers and security teams strengthen server protection, detect malicious uploads, and prevent unauthorized access.
